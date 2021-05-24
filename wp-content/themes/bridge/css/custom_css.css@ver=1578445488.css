@@ -1,0 +1,169 @@
+
+
+.q_icon_with_title.tiny .icon_holder img {
+    width: 78px;
+}
+
+.q_icon_with_title .icon_text_holder h5.icon_title {
+    margin-bottom: 7px;
+}
+
+.q_icon_with_title:not(.right) .icon_holder {
+    padding-top: 8px;
+}
+
+.testimonials_c_holder .testimonial_content_inner .testimonial_rating_holder {
+    color: #d2aa43 ;
+}
+
+.testimonials_c_holder .testimonial_content_inner {
+    padding: 53px 45px 55px;
+}
+
+.testimonials_c_holder .testimonial_content_inner .testimonial_rating_holder {
+    margin: 16px 0 20px;
+}
+
+.testimonials_c_holder .testimonial_content_inner .testimonial_author {
+    margin-top: 27px;
+}
+
+.testimonials_c_holder .testimonial_content_inner .testimonial_image_holder {
+    margin-bottom: 26px;
+}
+
+.testimonials_c_holder.light .flex-control-nav li a {
+    background-color: rgba(255,255,255,0.3);
+}
+
+.testimonials_c_holder .flex-control-nav li {
+    width: 10px;
+    height: 10px;
+    margin: 0 2px;
+}
+
+.qode_video_box .qode_video_image .qode_video_box_button {
+    background-color: #e8f6f6;
+}
+
+.qode_video_box .qode_video_image .qode_video_box_button_arrow {
+    border-left-color: #1fb9b9;
+}
+
+.footer_top .widget_nav_menu ul li {
+    padding: 0;
+}
+
+.wpcf7 form.wpcf7-form p {
+    margin-bottom: 2px;
+}
+
+
+
+.footer_top h5 {
+    margin: 8px 0 10px;
+}
+
+.footer_top a:hover {
+    text-decoration: underline;
+}
+
+.carousel-inner .slider_content .text .qbutton {
+    margin: 5px 0 0;
+}
+
+.q_icon_with_title .icon_text_inner {
+    padding: 1px 0 0;
+}
+
+.title.title_size_medium h1 {
+    text-transform: none;
+}
+
+.q_icon_with_title.medium .icon_holder img {
+    width: 34px;
+}
+
+.q_icon_with_title.medium.custom_icon_image .icon_text_holder {
+    padding: 0 0 0 43px;
+}
+
+.q_icon_with_title.medium.custom_icon_image .icon_text_holder .icon_text_inner p {
+    font-size: 13px;
+}
+
+.q_icon_with_title.medium.custom_icon_image .icon_text_holder .icon_text_inner h6 {
+   margin: 3px 0 -6px 0;
+}
+
+@media only screen and (max-width: 768px) {
+.call-to-action h3 {
+    text-align: center !important;
+}
+}
+
+ header:not(.centered_logo) .header_fixed_right_area{
+line-height: 30px;
+}
+
+.header_bottom{
+    box-shadow: -4px 4px 5px 0px rgba(0, 0, 0, 0.03);
+}
+
+@media only screen and (min-width: 1001px) {
+  .header_top_bottom_holder:after{
+    content: '';
+    width: 100%;
+    height: 0;
+    position: absolute;
+    bottom: 60px;
+    padding-top: 10px;
+   
+  }
+  .header_top {
+    background-color: #d2aa43  !important;
+    padding-right: 5px;
+}
+}
+
+@media only screen and (max-width: 1000px){
+   header:not(.centered_logo) .header_fixed_right_area{
+     display: none;
+  }
+
+  .logo_wrapper {
+     height: 150px!important;
+  }
+  .q_logo{
+    padding-below: 15px;
+  }
+  
+  .q_logo img {
+    top: -20px !important ;
+    left: 0;
+}
+ 
+}
+
+.header_bottom_right_widget_holder {
+    padding-right: 0;
+}
+header:not(.sticky) .q_logo a {
+   height: 100px !important;
+   
+}
+header.sticky .q_logo a {
+    height: 80px !important;
+}
+
+div.wpcf7 .ajax-loader {
+    display: none;
+}
+
+ input[type="date"]::-webkit-calendar-picker-indicator {
+color:#505050;
+}
+
+header:not(.with_hover_bg_color) nav.main_menu > ul > li:hover > a {
+    opacity: 1;
+}
